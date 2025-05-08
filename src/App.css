@@ -1,0 +1,11 @@
+@import "tailwindcss";
+
+@theme {
+    --color-primary: #5956E8; 
+    --color-menuColor: #181818; 
+    --color-borderColor: #E3E3E3;
+    --color-starColor: #FBBF25;
+    --radius-10: 10px; 
+    --font-inter: "Inter", "sans-serif";
+  }
+  
