@@ -54,7 +54,7 @@ var settings = {
 ![image](https://github.com/user-attachments/assets/73fe29b9-c53a-45fd-a43f-3a3fda178487)
 
 ### Next Arrow - Prev Arrow Implementation
-**Step 1:** Create Two Componenets such as `NextArrow.jsx` and `PrevArrow.jsx` file inside the `components` folder. Then copy the code below to corresponding files:
+**Step 1:** Create Two Components such as `NextArrow.jsx` and `PrevArrow.jsx` file inside the `components` folder. Then copy the code below to corresponding files:
 ```
 import React from 'react'
 
@@ -68,6 +68,20 @@ const PrevArrow = (props) => {
 }
 
 export default PrevArrow
+```
+```
+import React from 'react'
+
+const NextArrow = (props) => {
+    const { className, onClick } = props;
+    return (
+        <div className={`text-primary text-3xl ${className}`} onClick={onClick} >
+            next
+        </div>
+    )
+}
+
+export default NextArrow
 ```
 
 
