@@ -8,7 +8,7 @@ npm install react-slick --save
 ```
 npm install slick-carousel --save
 ```
-**Step 3:** Import `slick.css` and `Slider` to the Component (.jsx file) where slick slider is used.
+**Step 3:** Import `slick.css` and `Slider` to the Component (.jsx file) where slick slider is implemented.
 
 #### Example:
 ![image](https://github.com/user-attachments/assets/29782c90-141a-4ea4-9a27-200525348a18)
@@ -83,6 +83,9 @@ const NextArrow = (props) => {
 
 export default NextArrow
 ```
+**Step 2:** Import those two components where slick slider is implemented. Also add two properties `nextArrow` and `prevArrow` in the slider `settings` object.
+#### Example:
+![image](https://github.com/user-attachments/assets/422bf899-9f22-477d-aa6d-204112f78de8)
 
 
 ## Reference:
