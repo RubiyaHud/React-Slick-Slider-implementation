@@ -8,7 +8,7 @@ npm install react-slick --save
 ```
 npm install slick-carousel --save
 ```
-**Step 3:** Import `slick.css` and `Slider` to the Component (.jsx file) where slick slider is used.
+**Step 3:** Import `slick.css` and `Slider` to the Component (.jsx file) where slick slider is implemented.
 
 #### Example:
 ![image](https://github.com/user-attachments/assets/29782c90-141a-4ea4-9a27-200525348a18)
@@ -53,8 +53,46 @@ var settings = {
 #### Example:
 ![image](https://github.com/user-attachments/assets/73fe29b9-c53a-45fd-a43f-3a3fda178487)
 
+### Next Arrow - Prev Arrow Implementation
+**Step 1:** Create Two Components such as `NextArrow.jsx` and `PrevArrow.jsx` file inside the `components` folder. Then copy the code below to corresponding files:
+```
+import React from 'react'
+
+const PrevArrow = (props) => {
+    const { className, onClick } = props;
+    return (
+        <div className={`text-primary text-3xl ${className}`} onClick={onClick} >
+            prev
+        </div>
+    )
+}
+
+export default PrevArrow
+```
+```
+import React from 'react'
+
+const NextArrow = (props) => {
+    const { className, onClick } = props;
+    return (
+        <div className={`text-primary text-3xl ${className}`} onClick={onClick} >
+            next
+        </div>
+    )
+}
+
+export default NextArrow
+```
+**Step 2:** Import those two components where slick slider is implemented. Also add two properties `nextArrow` and `prevArrow` in the slider `settings` object.
+#### Example:
+![image](https://github.com/user-attachments/assets/422bf899-9f22-477d-aa6d-204112f78de8)
+
+**Step 3:** Add [React Icons](https://react-icons.github.io/react-icons/) instead of text. 
+#### Example:
+![image](https://github.com/user-attachments/assets/727734fb-32e4-4422-8990-f5267acadb78)
 
 
 ## Reference:
 
-Check out the [React Slick](https://react-slick.neostack.com/docs/get-started) to integrate React Slick Slider in the project.
+- Check out the [React Slick](https://react-slick.neostack.com/docs/get-started) to integrate `React Slick Slider` in the project.
+- Check out the [Custom Arrows](https://react-slick.neostack.com/docs/example/custom-arrows) to integrate `Next Arrow` and `Prev Arrow` in the `React Slick Slider`.
