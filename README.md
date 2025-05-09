@@ -87,7 +87,7 @@ export default NextArrow
 #### Example:
 ![image](https://github.com/user-attachments/assets/422bf899-9f22-477d-aa6d-204112f78de8)
 
-**Step 2:** Add [React Icons](https://react-icons.github.io/react-icons/) instead of text. 
+**Step 3:** Add [React Icons](https://react-icons.github.io/react-icons/) instead of text. 
 #### Example:
 ![image](https://github.com/user-attachments/assets/727734fb-32e4-4422-8990-f5267acadb78)
 
