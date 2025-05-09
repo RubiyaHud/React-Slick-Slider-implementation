@@ -26,6 +26,35 @@ var settings = {
 #### Example:
 ![image](https://github.com/user-attachments/assets/cd55b5a6-15a8-411f-84ae-bdc480c4036c)
 
-## Expanding the ESLint configuration
+**Step 5:** Copy the code (`Slider Component`) below and paste it inside the `return` of component arrow function :
+```
+<Slider {...settings}>
+      <div>
+        <h3>1</h3>
+      </div>
+      <div>
+        <h3>2</h3>
+      </div>
+      <div>
+        <h3>3</h3>
+      </div>
+      <div>
+        <h3>4</h3>
+      </div>
+      <div>
+        <h3>5</h3>
+      </div>
+      <div>
+        <h3>6</h3>
+      </div>
+</Slider>
+```
+**Step 6:** Edit the code (`Slider Component`) according to the requirements of the project.
+#### Example:
+![image](https://github.com/user-attachments/assets/73fe29b9-c53a-45fd-a43f-3a3fda178487)
+
+
+
+## Reference:
 
 If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
