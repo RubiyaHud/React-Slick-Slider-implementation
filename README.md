@@ -57,4 +57,5 @@ var settings = {
 
 ## Reference:
 
-Check out the [React Slick](https://react-slick.neostack.com/docs/get-started) to integrate React Slick Slider in the project.
+- Check out the [React Slick](https://react-slick.neostack.com/docs/get-started) to integrate `React Slick Slider` in the project.
+- Check out the [Custom Arrows](https://react-slick.neostack.com/docs/example/custom-arrows) to integrate `Next Arrow` and `Prev Arrow` in the `React Slick Slider`.
