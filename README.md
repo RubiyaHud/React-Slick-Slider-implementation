@@ -57,4 +57,4 @@ var settings = {
 
 ## Reference:
 
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://react-slick.neostack.com/docs/get-started) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+Check out the [React Slick](https://react-slick.neostack.com/docs/get-started) to integrate React Slick Slider in the project.
