@@ -97,6 +97,8 @@ export default NextArrow
 
 ![image](https://github.com/user-attachments/assets/ee6732ae-0715-48d9-8f5b-e41c499c0bea)
 
+## Notes:
+- `Slider` component is by default `flex`.
 
 ## Reference:
 
