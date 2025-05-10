@@ -53,7 +53,7 @@ var settings = {
 #### Example:
 ![image](https://github.com/user-attachments/assets/73fe29b9-c53a-45fd-a43f-3a3fda178487)
 
-### Next Arrow - Prev Arrow Implementation
+## Next Arrow - Prev Arrow Implementation
 **Step 1:** Create Two Components such as `NextArrow.jsx` and `PrevArrow.jsx` file inside the `components` folder. Then copy the code below to corresponding files:
 ```
 import React from 'react'
@@ -91,6 +91,7 @@ export default NextArrow
 #### Example:
 ![image](https://github.com/user-attachments/assets/727734fb-32e4-4422-8990-f5267acadb78)
 
+**Step 4:** Set the position of `NextArrow` and `PrevArrow` by adding the properties showing below: (`z-index` is used in `PrevArrow`)
 
 ## Reference:
 
