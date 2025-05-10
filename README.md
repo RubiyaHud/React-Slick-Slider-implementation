@@ -92,7 +92,9 @@ export default NextArrow
 ![image](https://github.com/user-attachments/assets/727734fb-32e4-4422-8990-f5267acadb78)
 
 **Step 4:** Set the position of `NextArrow` and `PrevArrow` by adding the properties showing below: (`z-index` is used in `PrevArrow`)
+
 ![image](https://github.com/user-attachments/assets/b57d7eb5-6f7c-44cc-b4e8-0eb2e2e49d96)
+
 ![image](https://github.com/user-attachments/assets/ee6732ae-0715-48d9-8f5b-e41c499c0bea)
 
 
