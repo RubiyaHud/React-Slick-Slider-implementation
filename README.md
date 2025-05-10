@@ -99,6 +99,13 @@ export default NextArrow
 
 ## Notes:
 - `Slider` component is by default `flex`.
+- `z-index` is used in `PrevArrow`.
+- `-mx-{value}` may be required to use insdie the `parent div` where the `multiple divs` are used in the `Slider`
+      ![image](https://github.com/user-attachments/assets/1df53bf0-4be2-415a-a46d-f8d76002ab2f)
+      ![image](https://github.com/user-attachments/assets/e4fcb74f-f73c-4505-8d68-b52700f73bde)
+      ![image](https://github.com/user-attachments/assets/7952e199-2a4f-403a-9638-a1628defc1e3)
+
+
 
 ## Reference:
 
