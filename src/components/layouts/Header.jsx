@@ -4,6 +4,7 @@ import Flex from '../Flex'
 import Image from '../Image'
 import Logo from "../../assets/logo.png"
 import Button from '../Button'
+import UiverseBtn from '../UiverseBtn'
 
 const Header = () => {
     return (
