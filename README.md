@@ -110,6 +110,8 @@ export default NextArrow
       ![image](https://github.com/user-attachments/assets/7952e199-2a4f-403a-9638-a1628defc1e3)
       **For Example:**
       ![image](https://github.com/user-attachments/assets/b9d49628-a621-49ac-9957-9dd5f888941f)
+- ### How to Fix Layout Shift:
+  ![image](https://github.com/user-attachments/assets/19f03ef8-2056-48f1-a25b-94d9a889a455)
 
 
 
