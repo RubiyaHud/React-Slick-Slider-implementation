@@ -116,6 +116,12 @@ export default NextArrow
 ## Example of React-Slick-Slider implementation:
 **Project Link:** [UOMO](https://github.com/RubiyaHud/Redux-Initial-Setup)
 <img width="1479" height="594" alt="image" src="https://github.com/user-attachments/assets/fd97cb0e-cf4a-4686-86d1-b4e6efecb1ae" />
+<img width="789" height="794" alt="image" src="https://github.com/user-attachments/assets/93924df9-720a-40cb-b8b2-76785a729a8d" />
+<img width="782" height="133" alt="image" src="https://github.com/user-attachments/assets/87447d47-bb0a-495f-9b65-f18f040f5085" />
+<img width="781" height="718" alt="image" src="https://github.com/user-attachments/assets/b612644d-6da5-467e-bf72-9fe6eaa308ff" />
+<img width="764" height="144" alt="image" src="https://github.com/user-attachments/assets/e07671c4-3333-433a-9a34-61c032bde50d" />
+
+
 
 
 ## Reference:
