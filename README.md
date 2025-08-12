@@ -1,5 +1,3 @@
-<img width="804" height="714" alt="image" src="https://github.com/user-attachments/assets/890a192d-6565-4f2f-ab73-c87b58839afe" />## React Slick Slider Installation
-
 **Step 1:** Open the Gitbash terminal in vs code and type the command below:
 ```
 npm install react-slick --save
