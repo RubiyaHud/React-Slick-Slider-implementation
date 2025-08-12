@@ -113,6 +113,9 @@ export default NextArrow
 - ### How to Fix Layout Shift:
   ![image](https://github.com/user-attachments/assets/19f03ef8-2056-48f1-a25b-94d9a889a455)
 
+## Example of React-Slick-Slider implementation:
+**Project Link:** [UOMO](https://github.com/RubiyaHud/Redux-Initial-Setup)
+<img width="1479" height="594" alt="image" src="https://github.com/user-attachments/assets/fd97cb0e-cf4a-4686-86d1-b4e6efecb1ae" />
 
 
 ## Reference:
